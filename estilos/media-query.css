@@ -12,10 +12,18 @@
         width: 35%;
         height: 100%;
     }
-
+    
     #login > #formulario {
         float: right;
         width: 60%;
+    }
+
+    #formulario > h1 {
+        font-size: 1.8em;
+    }
+
+    #formulario > p {
+        font-size: 1em;
     }
 }
 
@@ -34,5 +42,13 @@
     #login > #formulario {
         float: left;
         width: 47%;
+    }
+
+    #formulario > h1 {
+        font-size: 2em;
+    }
+
+    #formulario > p {
+        font-size: 1.2em;
     }
 }
