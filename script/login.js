@@ -1,0 +1,1 @@
+Faça o curso de JavaScript para saber o que fazer.
