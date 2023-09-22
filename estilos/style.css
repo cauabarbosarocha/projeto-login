@@ -16,11 +16,11 @@
     margin: 0px;
 }
 
-body {
+body, html {
     /* background-color: var(--cor05); */
     background-image: linear-gradient(var(--cor05), var(--cor01));
-    height: 180vh;
-    width: 180vw;
+    height: 100vh;
+    width: 100vw;
 }
 
 main {
